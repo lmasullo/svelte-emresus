@@ -2,6 +2,14 @@
   // export let name;
 </script>
 
+<main>
+  <div class="container">
+    <h1>EM Resus is under construction.</h1>
+    <h3>Check back later.</h3>
+    <!-- <p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p> -->
+  </div>
+</main>
+
 <style>
   main {
     text-align: center;
@@ -23,11 +31,3 @@
     }
   }
 </style>
-
-<main>
-  <div class="container">
-    <h1>EM Resus is under construction.</h1>
-    <h3>Check back later.</h3>
-    <!-- <p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p> -->
-  </div>
-</main>
